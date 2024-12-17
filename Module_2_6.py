@@ -1,5 +1,3 @@
-import random
-
 def get_passcode(n):
     passdict = {}
     passdict.update({3: 12, 4: 13, 5: 1423, 6: 121524, 7: 162534, 8: 13172635, 9: 1218273645,
